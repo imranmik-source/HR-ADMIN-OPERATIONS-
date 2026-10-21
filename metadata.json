@@ -1,0 +1,6 @@
+{
+  "name": "HRADMOPTS – HR & Administration Operations Portal",
+  "description": "Enterprise HR & Administration Operations Portal for large EPCC infrastructure projects in India, managing staff, vendors, invoice verification, accommodations, utilities, agreements, and medical operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
